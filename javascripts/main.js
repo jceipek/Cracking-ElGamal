@@ -6,7 +6,7 @@ require.config({
       mootools: '3rdparty/TangleKit/mootools'
     , Tangle: '3rdparty/Tangle'
       /* Note the `delayStartupUntil=configured` parameter */
-    , mathjax: 'http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&amp;delayStartupUntil=configured'
+    , mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML&amp;delayStartupUntil=configured'
     // , sprintf: '3rdparty/TangleKit/sprintf.js'
     , BVTouchable: '3rdparty/TangleKit/BVTouchable'
     , TangleKit: '3rdparty/TangleKit/TangleKit'
